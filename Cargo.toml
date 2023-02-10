@@ -15,3 +15,7 @@ path = "src/chapter03/linear_search.rs"
 [[bin]]
 name = "linear_search_index"
 path = "src/chapter03/linear_search_index.rs"
+
+[[bin]]
+name = "linear_search_min"
+path = "src/chapter03/linear_search_min.rs"
