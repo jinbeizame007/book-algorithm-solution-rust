@@ -11,3 +11,7 @@ proconio = "0.4.3"
 [[bin]]
 name = "linear_search"
 path = "src/chapter03/linear_search.rs"
+
+[[bin]]
+name = "linear_search_index"
+path = "src/chapter03/linear_search_index.rs"
