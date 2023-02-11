@@ -27,3 +27,7 @@ path = "src/chapter03/linear_search_pair.rs"
 [[bin]]
 name = "linear_search_bit"
 path = "src/chapter03/linear_search_bit.rs"
+
+[[bin]]
+name = "sum_from_1_to_n"
+path = "src/chapter04/sum_from_1_to_n.rs"
