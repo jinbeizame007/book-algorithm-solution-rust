@@ -1,10 +1,10 @@
-fn gcd(m: i32, n: i32) -> i32 {
-    if n == 0 {return m};
+fn fibo(n: i32) -> i32 {
+    if n == 0 {return 0}
+    else if n == 1 {return 1};
 
-    return gcd(n, m % n);
+    return fibo(n - 1) + fibo(n - 2);
 }
 
 fn main() {
-    println!("{}", gcd(51, 15));
-    println!("{}", gcd(15, 51));
+    println!("{}", fibo(6));
 }
