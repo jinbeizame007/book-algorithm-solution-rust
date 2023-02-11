@@ -23,3 +23,7 @@ path = "src/chapter03/linear_search_min.rs"
 [[bin]]
 name = "linear_search_pair"
 path = "src/chapter03/linear_search_pair.rs"
+
+[[bin]]
+name = "linear_search_bit"
+path = "src/chapter03/linear_search_bit.rs"
