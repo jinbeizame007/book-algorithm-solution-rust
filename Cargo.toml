@@ -43,3 +43,7 @@ path = "src/chapter04/recursive_fibo.rs"
 [[bin]]
 name = "recursive_fibo_printable"
 path = "src/chapter04/recursive_fibo_printable.rs"
+
+[[bin]]
+name = "recursive_fibo_memorize"
+path = "src/chapter04/recursive_fibo_memorize.rs"
