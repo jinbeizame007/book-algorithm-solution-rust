@@ -31,3 +31,7 @@ path = "src/chapter03/linear_search_bit.rs"
 [[bin]]
 name = "sum_from_1_to_n"
 path = "src/chapter04/sum_from_1_to_n.rs"
+
+[[bin]]
+name = "recursive_fibo"
+path = "src/chapter04/recursive_fibo.rs"
