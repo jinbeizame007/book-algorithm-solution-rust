@@ -51,3 +51,11 @@ path = "src/chapter04/recursive_fibo_memorize.rs"
 [[bin]]
 name = "partial_sum"
 path = "src/chapter04/partial_sum.rs"
+
+[[bin]]
+name = "frog_problem_by_dp"
+path = "src/chapter05/frog_problem_by_dp.rs"
+
+[[bin]]
+name = "frog_problem_by_dp_with_relaxation"
+path = "src/chapter05/frog_problem_by_dp_with_relaxation.rs"
