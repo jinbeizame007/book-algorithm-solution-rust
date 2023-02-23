@@ -64,3 +64,7 @@ path = "src/chapter05/frog_problem_by_dp_with_relaxation.rs"
 [[bin]]
 name = "frog_problem_by_dp_push_based"
 path = "src/chapter05/frog_problem_by_dp_push_based.rs"
+
+[[bin]]
+name = "frog_problem_memorize_recursive"
+path = "src/chapter05/frog_problem_memorize_recursive.rs"
